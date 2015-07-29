@@ -1,0 +1,22 @@
+{
+  "name": "node-push-azure",
+  "version": "1.0.0",
+  "description": "Example Node Application to interact with MS Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "keywords": [
+    "nodejs",
+    "push",
+    "azure"
+  ],
+  "author": "jkarg@intertech.com",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^0.24.1"
+  },
+  "dependencies": {
+    "azure": "^0.10.6"
+  }
+}
