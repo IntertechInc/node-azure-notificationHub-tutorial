@@ -4,12 +4,15 @@
   "description": "Example Node Application to interact with MS Azure",
   "main": "index.js",
   "scripts": {
-    "test": "eslint ."
+    "test": "eslint .",
+    "start": "node index",
+    "register": "node register"
   },
   "keywords": [
     "nodejs",
     "push",
-    "azure"
+    "azure",
+    "apns"
   ],
   "author": "jkarg@intertech.com",
   "license": "MIT",
@@ -17,6 +20,7 @@
     "eslint": "^0.24.1"
   },
   "dependencies": {
-    "azure": "^0.10.6"
+    "azure": "^0.10.6",
+    "config": "^1.16.0"
   }
 }

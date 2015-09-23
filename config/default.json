@@ -1,0 +1,7 @@
+{
+	"notificationHubSettings": {
+		"name": "--PutYourHubNameHere--",
+		"connectionString": "--PutYourConnectionStringHere--"
+	},
+  "deviceToken": "--PutYourDeviceTokenHere--"
+}
