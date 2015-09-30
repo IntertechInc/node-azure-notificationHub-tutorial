@@ -1,6 +1,6 @@
 # Azure Notification Hubs with Node
 
-This is a basic node example app that goes along with the companion blog post.
+This is a basic node example app that goes along with the companion [blog post](http://www.intertech.com/Blog/push-notifications-tutorial-node-js-and-azure-setup/).
 
 # Getting Started
 
